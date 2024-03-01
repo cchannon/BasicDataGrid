@@ -1,7 +1,7 @@
 # BasicDataGrid
 
 ## Overview
-BasicDataGrid is a custom control for model-driven apps in Dataverse. It provides a simple data grid that replaces most of the out-of-the-box grid functionality. This control serves as a starting point for developers who need to create custom grids that extend the platform's capabilities.
+BasicDataGrid is a custom control for model-driven apps in Dataverse. It provides a simple data grid that replaces most of the out-of-the-box grid functionality. This control serves as a starting point for developers who need to create custom grids that extend the platform's capabilities. It does not provide any new functionality not already present in Dataverse grids; it is only intended as a jumpstart to customizations where developers would otherwise need to meet this baseline before beginning their desired customizations.
 
 ## Features
 - Reproduces most of the out-of-the-box grid functionality
